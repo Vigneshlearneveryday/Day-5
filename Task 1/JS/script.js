@@ -21,7 +21,7 @@ let myResume={
         "summary": "cadet who struggled to sail with sea sickness problem",
         "startdate": "01-01-2017",
         "end date": "01-04-2024",
-        "summary": "own business and assitant director in kollywood",
+        "summary": "own business and assistant director in kollywood",
         
       },
     ],
